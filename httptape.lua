@@ -25,7 +25,7 @@ if not TapeDrive or TapeDrive.isReady() == false then
     return
 end
 
-print("Clear Tape...")
+print("Clearing Tape...")
 TapeDrive.seek(-99999999999)
 for i = 1, (TapeDrive.getSize() / 8192) do
     TapeDrive.write(string.rep("\xAA", 8192))
