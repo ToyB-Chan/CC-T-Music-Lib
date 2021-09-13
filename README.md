@@ -1,7 +1,7 @@
 # CC-T-Music-Lib
 ### HTTP Tape ###
 Downloads a file and directly writes it on the tape without saving it to the disk.\
-(wget https://raw.githubusercontent.com/ToyB-Chan/CC-T-Music-Lib/main/httptape.lua httptape.lua)
+`wget https://raw.githubusercontent.com/ToyB-Chan/CC-T-Music-Lib/main/httptape.lua httptape.lua`
 
 ## DFPWM ##
 ### Normal: ###
