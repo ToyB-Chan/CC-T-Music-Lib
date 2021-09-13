@@ -1,6 +1,6 @@
 # CC-T-Music-Lib
 ### HTTP Tape ###
-Download a file and directly write it on the tape without saving it to the disk.
+Downloads a file and directly writes it on the tape without saving it to the disk.
 
 ## DFPWM ##
 ### Normal: ###
